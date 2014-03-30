@@ -1,0 +1,33 @@
+#top {
+	text-align:right;
+	font-size:12px;}
+	
+#logol {
+	text-align:center;}
+	
+#linkname {
+	text-align:center;
+	font-size:14px}
+	
+#s1 {
+	width:450px;
+	height:25px;}
+#s2 {
+	font-size:16px;
+	height:35px;
+	width:100px;}
+	
+#link2 {
+	text-align:center;
+	font-size:14px;}
+	
+#link3 {
+	text-align:center;
+	font-size:12px;
+	margin-top: 300px;}
+	
+#copy {
+	text-align:center;
+	font-family:Arial;
+	font-size:12px;
+	color:#999;}
